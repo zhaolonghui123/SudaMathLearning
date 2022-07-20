@@ -1,11 +1,14 @@
+---
+coverY: 0
+---
+
 <div align="center">
 📖 Github
 &emsp;&emsp; | &emsp;&emsp;
 <a href="https://1548715169.gitbook.io/untitled/">📚 Gitbook</a>
 </div> 
----
-coverY: 0
----
+</br>
+
 
 # SudaMathLearning
 
