@@ -48,7 +48,12 @@
 
 ## 数据结构与算法
 
-* [Page 12](shu-ju-jie-gou-yu-suan-fa/page-12.md)
+* [数组](shu-ju-jie-gou-yu-suan-fa/shu-zu.md)
+* [链表](shu-ju-jie-gou-yu-suan-fa/lian-biao.md)
+* [队列与栈](shu-ju-jie-gou-yu-suan-fa/dui-lie-yu-zhan.md)
+* [树](shu-ju-jie-gou-yu-suan-fa/shu.md)
+* [图](shu-ju-jie-gou-yu-suan-fa/tu.md)
+* [排序算法](shu-ju-jie-gou-yu-suan-fa/pai-xu-suan-fa.md)
 
 ## 操作系统
 
@@ -60,4 +65,25 @@
 
 ## 运筹学
 
-* [Page 15](yun-chou-xue/page-15.md)
+* [线性规划问题](yun-chou-xue/xian-xing-gui-hua-wen-ti.md)
+* [对偶问题](yun-chou-xue/dui-ou-wen-ti.md)
+* [运输问题](yun-chou-xue/yun-shu-wen-ti.md)
+* [指派问题](yun-chou-xue/zhi-pai-wen-ti.md)
+* [图论](yun-chou-xue/tu-lun.md)
+* [矩阵对策](yun-chou-xue/ju-zhen-dui-ce.md)
+
+## 离散数学
+
+* [Page 12](li-san-shu-xue/page-12.md)
+
+## 计算机图形学
+
+* [Page 15](ji-suan-ji-tu-xing-xue/page-15.md)
+
+## 软件设计基础
+
+* [Page 16](ruan-jian-she-ji-ji-chu/page-16.md)
+
+## 数学模型与数学软件
+
+* [Page 17](shu-xue-mo-xing-yu-shu-xue-ruan-jian/page-17.md)
