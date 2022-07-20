@@ -1,6 +1,6 @@
-**Github**|[**gitbook**](https://1548715169.gitbook.io/untitled/)
+|**Github** | [**Gitbook**](https://1548715169.gitbook.io/untitled/)|
 ---
-cover:0
+coverY: 0
 ---
 
 # SudaMathLearning
