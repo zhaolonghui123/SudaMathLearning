@@ -2,16 +2,13 @@
 coverY: 0
 ---
 
-<div align="center">
-📖 Github
-&emsp;&emsp; | &emsp;&emsp;
-<a href="https://1548715169.gitbook.io/untitled/">📚 Gitbook</a>
-</div> 
-</br>
+# 数科院学习突击指南
+
+📖 Github    |    [📚 Gitbook](https://1548715169.gitbook.io/untitled/)\
 
 
-# SudaMathLearning
+## SudaMathLearning
 
-## Welcome aboard!
+### Welcome aboard!
 
 Welcome to the company wiki! Here you'll find everything you need to know about the company.
