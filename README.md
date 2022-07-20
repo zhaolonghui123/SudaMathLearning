@@ -1,8 +1,8 @@
 ---
-coverY: 0
+[gitbook](https://1548715169.gitbook.io/untitled/)
 ---
 
-# Welcome!
+# SudaMathLearning
 
 ## Welcome aboard!
 
