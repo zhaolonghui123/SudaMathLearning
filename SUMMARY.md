@@ -87,3 +87,7 @@
 ## 数学模型与数学软件
 
 * [Page 17](shu-xue-mo-xing-yu-shu-xue-ruan-jian/page-17.md)
+
+## 更新日志
+
+* [Page 18](geng-xin-ri-zhi/page-18.md)
