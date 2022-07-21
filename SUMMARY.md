@@ -36,7 +36,7 @@
 
 ## 常微分方程
 
-* [Page 9](chang-wei-fen-fang-cheng/page-9.md)
+* [分离变量法](chang-wei-fen-fang-cheng/fen-li-bian-liang-fa.md)
 
 ## 计算机网络
 
