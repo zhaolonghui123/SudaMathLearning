@@ -4,12 +4,9 @@ coverY: 0
 
 # 🐬 写在前面
 
-在线阅读：[📚 Gitbook](https://1548715169.gitbook.io/untitled/) 
+在线阅读：[📚 Gitbook](https://1548715169.gitbook.io/untitled/)
 
 github: [📖 Github](https://github.com/zhaolonghui123/SudaMathLearning)
-
-
-
 
 ### 关于这本书
 
@@ -27,6 +24,8 @@ github: [📖 Github](https://github.com/zhaolonghui123/SudaMathLearning)
 
 本书完全开源。
 
-### 关于我
+### 关于笔者
 
-一位马上就要读大四的咸鱼大学生，各个社交或者游戏平台的ID都叫游侠，至于为啥取这个ID，可能是比较向往那种洒脱自在的游侠生活吧。
+笔者一位马上就要读大四的咸鱼大学生，各个社交或者游戏平台的ID都叫游侠，至于为啥取这个ID，可能是比较向往那种洒脱自在的游侠生活吧，自己平时挺摆的，基本是对啥感兴趣就会去捣鼓捣鼓，搞过服务器，建过站（没备案凉凉了），搭过自己的博客，Cg,DL，小程序啥的也都多少接触过，成绩一般，纸面上看着不丢人的那种；摆归摆，离洒脱自在那种境界还差的远，希望能通过这个项目沉淀一下自己，离心中所想更近一步。
+
+![](.gitbook/assets/01.jpeg)

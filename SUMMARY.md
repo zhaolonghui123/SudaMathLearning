@@ -46,29 +46,27 @@
 
 * [Page 11](ji-suan-ji-zu-cheng-yuan-li/page-11.md)
 
-## 数据结构与算法
-
-### 数组
+## 数组
 
 * [数组](shu-ju-jie-gou-yu-suan-fa/shu-zu.md)
 
-### 链表
+## 链表
 
 * [链表](shu-ju-jie-gou-yu-suan-fa/lian-biao.md)
 
-### 队列与栈
+## 队列与栈
 
 * [队列与栈](shu-ju-jie-gou-yu-suan-fa/dui-lie-yu-zhan.md)
 
-### 树
+## 树
 
 * [树](shu-ju-jie-gou-yu-suan-fa/shu.md)
 
-### 图
+## 图
 
 * [图](shu-ju-jie-gou-yu-suan-fa/tu.md)
 
-### 算法
+## 算法
 
 * [排序算法](shu-ju-jie-gou-yu-suan-fa/pai-xu-suan-fa.md)
 
