@@ -1,6 +1,6 @@
 # Table of contents
 
-* [写在前面](README.md)
+* [🐬 写在前面](README.md)
 
 ## 数学分析
 
