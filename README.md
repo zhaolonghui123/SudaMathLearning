@@ -5,6 +5,8 @@ coverY: 0
 # 🐬 写在前面
 
 在线阅读：[📚 Gitbook](https://1548715169.gitbook.io/untitled/)
+github: [📖 Github](https://github.com/zhaolonghui123/SudaMathLearning)
+
 
 
 
