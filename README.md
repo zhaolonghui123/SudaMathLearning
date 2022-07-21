@@ -4,7 +4,7 @@ coverY: 0
 
 # 🐬 写在前面
 
-📖 Github    |    [📚 Gitbook](https://1548715169.gitbook.io/untitled/)\
+📖 Github    |    [📚 Gitbook](https://1548715169.gitbook.io/untitled/)
 
 
 ## SudaMathLearning
