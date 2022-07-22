@@ -1,4 +1,4 @@
-bui# Summary
+bui # Summary
 
 * [🐬 写在前面](README.md)
 
@@ -32,7 +32,7 @@ bui# Summary
    * [树](shu-ju-jie-gou-yu-suan-fa/shu.md)
    * [图](shu-ju-jie-gou-yu-suan-fa/tu.md)
    * [算法](shu-ju-jie-gou-yu-suan-fa/Algorithm.md)
-         * [排序算法](shu-ju-jie-gou-yu-suan-fa/pai-xu-suan-fa.md)
+      * [排序算法](shu-ju-jie-gou-yu-suan-fa/pai-xu-suan-fa.md)
 
 * [操作系统](cao-zuo-xi-tong/page-13.md)
 
@@ -40,8 +40,8 @@ bui# Summary
 
 * [运筹学](yun-chou-xue/Readme.md)
    * [线性规划问题](yun-chou-xue/xian-xing-gui-hua-wen-ti.md)
-         * [标准型](yun-chou-xue/标准型.md)
-         * [单纯性法](yun-chou-xue/单纯性法.md) 
+       * [标准型](yun-chou-xue/标准型.md)
+       * [单纯性法](yun-chou-xue/单纯性法.md) 
    * [对偶问题](yun-chou-xue/dui-ou-wen-ti.md)
    * [运输问题](yun-chou-xue/yun-shu-wen-ti.md)
    * [指派问题](yun-chou-xue/zhi-pai-wen-ti.md)
