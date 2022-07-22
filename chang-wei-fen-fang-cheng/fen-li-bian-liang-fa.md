@@ -22,6 +22,18 @@ sin(x^2+c) \qquad x^2+c \in (-\frac{\pi}{2},\frac{\pi}{2})\\
 \end{cases}
 $$
 
-​
+$$
+积分 \quad
+$$
+
+$$
+例2 \quad 求\frac{dy}{dx}= \frac{2xy^2}{1-x^2}\quad y(0)=1的特解
+$$
+
+$$
+解：\quad \frac{dy}{y^2}=\frac{2x}{1-x^2} \\ 两端积分 \quad \int \frac{dy}{y^2}=\int \frac{2x}{1-x^2}dx \\ - \int \frac{dy}{y^2} = \int \frac{1}{1-x^2}d(1-x^2) \\ \frac{1}{y} = ln|1-x^2|+c \\ y(0)=1得c=1 \\ 满足y(0)=1的特解为 \frac{1}{y} = ln|1-x^2|+1
+$$
+
+
 
 ​
