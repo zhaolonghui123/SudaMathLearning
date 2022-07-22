@@ -23,10 +23,6 @@ sin(x^2+c) \qquad x^2+c \in (-\frac{\pi}{2},\frac{\pi}{2})\\
 $$
 
 $$
-积分 \quad
-$$
-
-$$
 例2 \quad 求\frac{dy}{dx}= \frac{2xy^2}{1-x^2}\quad y(0)=1的特解
 $$
 
