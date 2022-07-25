@@ -11,6 +11,7 @@
 * [概率论与数理统计](gai-shuai-lun-yu-shu-li-tong-ji/Readme.md)
 * [常微分方程](chang-wei-fen-fang-cheng/Readme.md)
   * [分离变量法](chang-wei-fen-fang-cheng/fen-li-bian-liang-fa.md)
+  * [变量替换法](chang-wei-fen-fang-cheng/变量替换法.md)
 * [计算机网络](ji-suan-ji-wang-luo/Readme.md)
 * [计算机组成原理](ji-suan-ji-zu-cheng-yuan-li/Readme.md)
 * [数据结构与算法](shu-ju-jie-gou-yu-suan-fa/Readme.md)
