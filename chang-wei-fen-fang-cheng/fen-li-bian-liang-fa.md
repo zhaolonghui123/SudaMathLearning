@@ -15,7 +15,7 @@ $$
 ​
 
 $$
-解：1) \quad 显然，y= \pm 1 是方程的解 \\ 2)1-y^2 \neq 0 \quad \\分离变量 \qquad \frac{dy}{\sqrt{1-y^2}} = 2xdx \\ 两端积分得\quad \int \frac{dy}{\sqrt{1-y^2}} = \int 2xdx \\ arcsiny=x^2+c \\ y = sin(x^2+c) \\ 3)y = \begin{cases}
+解：1) \quad 显然，y= \pm 1 是方程的解 \\ 2)1-y^2 \neq 0 \quad \\ 分离变量 \qquad \frac{dy}{\sqrt{1-y^2}} = 2xdx \\ 两端积分得\quad \int \frac{dy}{\sqrt{1-y^2}} = \int 2xdx \\ arcsiny=x^2+c \\ y = sin(x^2+c) \\ 3)y = \begin{cases}
 -1\\
 sin(x^2+c) \qquad x^2+c \in (-\frac{\pi}{2},\frac{\pi}{2})\\
 1\\
