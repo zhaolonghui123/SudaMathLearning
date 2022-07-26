@@ -38,4 +38,5 @@
 * [软件设计基础](ruan-jian-she-ji-ji-chu/Readme.md)
 * [数学模型与数学软件](shu-xue-mo-xing-yu-shu-xue-ruan-jian/Readme.md)
 * [课外阅读材料](课外阅读材料/Readme.md)
+* [课外学习网站](Link.md)
 * [更新日志](geng-xin-ri-zhi/Readme.md)
