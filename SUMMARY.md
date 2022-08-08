@@ -8,6 +8,7 @@
   * [第一章](c++-cheng-xu-she-ji/first/第一章.md) 
     * [C++介绍](c++-cheng-xu-she-ji/first/C++介绍.md)
     * [集成开发环境安装](c++-cheng-xu-she-ji/first/集成开发环境安装.md) 
+    * [编写你的第一个程序](c++-cheng-xu-she-ji/first/编写你的第一个程序.md)
 * [数据库理论及实践](shu-ju-ku-li-lun-ji-shi-jian/Readme.md)
 * [面向对象程序设计（Java）](mian-xiang-dui-xiang-cheng-xu-she-ji-java/Readme.md)
 * [python](python/Readme.md)
